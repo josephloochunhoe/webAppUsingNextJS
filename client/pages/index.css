@@ -1,0 +1,9 @@
+body {
+  background: #ADD8E6;
+  font-family: "Consolas";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
